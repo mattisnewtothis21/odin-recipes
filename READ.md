@@ -1,1 +1,1 @@
-This is a project talking about my favorite recipes 
+This is a project talking about my favorite recipes!
