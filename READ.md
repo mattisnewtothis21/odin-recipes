@@ -1,1 +1,1 @@
-This is a practice test 
+This is a readable file detailing my recipe project 
